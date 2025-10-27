@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Mon Oct 27 22:06:59 GMT 2025","Mon Oct 27 22:06:59 GMT 2025","0","tests","decorate_tree_test","TestDecorateTree","","","Decorate Tree",""
+"passed","Mon Oct 27 22:13:25 GMT 2025","Mon Oct 27 22:15:01 GMT 2025","95750","tests","decorate_tree_test","TestDecorateTree","","","Decorate Tree",""
