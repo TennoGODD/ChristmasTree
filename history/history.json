@@ -1,1 +1,1 @@
-{"b754464b4ed2d0d9c6afaaf4a0fbbc24":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"80545ff5a93285d6","status":"passed","time":{"start":1761603569224,"stop":1761603752380,"duration":183156}}]}}
+{"b754464b4ed2d0d9c6afaaf4a0fbbc24":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"1f8d05df4a4b6db9","status":"broken","statusDetails":"selenium.common.exceptions.TimeoutException: Message:","time":{"start":1761603995557,"stop":1761604006230,"duration":10673}}]}}
